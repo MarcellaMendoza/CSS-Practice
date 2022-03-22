@@ -1,0 +1,30 @@
+h1 {
+  margin-bottom: 45px;
+  color: #2e7ad3;
+  font-size: 48px;
+  text-align: center;
+}
+
+h2 {
+  color: #104c90;
+  font-size: 32px;
+}
+
+p {
+  font-size: 16px;
+}
+
+a:link {
+  color: #ff8000;
+}
+
+.container {
+  background-color: #f1f1f1;
+  width: 500px;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+img {
+  width: 100%;
+}
